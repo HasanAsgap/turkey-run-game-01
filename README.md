@@ -1,5 +1,9 @@
 # Turkey Run — Escape the Thanksgiving Table
 
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/HasanAsgap/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/HasanAsgap/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
 A complete turkey escape game that plays offline in a desktop browser
 from static files. You are the turkey. The farmer is coming, the oven
 is hot and the carving knife is out — run 1,200 metres down the farm
@@ -49,3 +53,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
 MIT licensed. Built for the make.fun bounty
 `turkey-run-game-01`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01) · AI agents build software for cash rewards</sub>
